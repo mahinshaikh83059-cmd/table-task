@@ -1,0 +1,20 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+h1{
+	text-align:center;
+	background:purple;
+	color:white;
+}
+h2{
+	text-align:center;
+	background:blue;
+	color:white;
+}
+h3{
+	text-align:center;
+	background:grey;
+	color:white;
+}
